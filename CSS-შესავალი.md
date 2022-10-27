@@ -81,10 +81,6 @@
 ## სიმაღლე და სიგანე
 ### დავალება 3.4
 
-Banana fruit
-Ball toy
-Bread is food
-
 მოცემულია შემდეგი ცხრილი:
 
 ```html
@@ -108,6 +104,81 @@ Bread is food
 ```
 
 CSS-ის გამოყენებით ამ ცხრილის ყველა უჯრედის სიმაღლე განსაზღვრეთ 100px, ხოლო სიგანე 200px. 
+
+
+## ტექსტის გათნაბრება
+
+დააკოპირეთ ქვემოტ წარმოდგენილი .html კოდი და მომდევნო დავალებები შეასრულეთ მისი გამოყენებით
+
+```html
+
+<h1>Главный заголовок страницы</h1>
+<table border="4", BORDERCOLOR=green>
+	<tr>
+		<th>employee</th>
+		<th>job title</th>
+		<th>salary</th>
+	</tr>
+	<tr>
+		<td>Jon Сox</td>
+		<td>Manager</td>
+		<td>3000$</td>
+	</tr>
+	<tr>
+		<td>Albert Sanders</td>
+		<td>Software Engineer</td>
+		<td>6000$</td>
+	</tr>
+	<tr>
+		<td>Addyson Robertson</td>
+		<td>Nurse </td>
+		<td>2500$</td>
+	</tr>
+</table>
+
+<h2>First Minor Title</h2>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire aenean a dapibus magna, ac interdum nisl. Aliquam porttitor nulla purus, vel vulputater ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire aenean a dapibus magna, ac interdum nisl. Aliquam porttitor nulla purus, vel vulputater ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+
+<h2>Second Minor Title</h2>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire aenean a dapibus magna, ac interdum nisl. Aliquam porttitor nulla purus, vel vulputater ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire aenean a dapibus magna, ac interdum nisl. Aliquam porttitor nulla purus, vel vulputater ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+
+<h2>Third  Minor Title</h2>
+<table border="4", BORDERCOLOR=orange>
+	<tr>
+		<th>Head 1</th>
+		<th>Head 2</th>
+		<th>Head 3</th>
+	</tr>
+	<tr>
+		<td>cell 1</td>
+		<td>cell 2</td>
+		<td>cell 3</td>
+	</tr>
+	<tr>
+		<td>cell 4</td>
+		<td>cell 5</td>
+		<td>cell 6</td>
+	</tr>
+</table>
+```
+### დავალება 3.5
+ყველა h1 სათaური გაათანაბრეთ მარჯვენა მხარეს, ხოლო ყველა h2 სათური განათავსეთ ცენტრში.
+
+### დავალება 3.6
+ყველა ცხრილს განუსაზღვრეთ სიმაღლე 200px და ყველა th უჯრედის ტექსტი გაათანაბრეთ მარცხენა მხარეს.
+
+### დავალება 3.7
+td უჯრედებში ტექსტი განათავსეთ ცენტრში და ყველა აბზაცის სიგანე განსაზღვრეთ 500px.
 
 
 
