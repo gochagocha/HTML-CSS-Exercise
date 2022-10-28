@@ -274,14 +274,39 @@ CSS-ის საშუალებით განსაზღვრეთ ყ�
 მოცემული გვაქვს აბზაცი ფონტის ზომი 40px. gansazRvreT Tviseba line-height ისე, რომ ტექსტის სტრიქონებს შორის მანძილი იყოს 20px.  გამოიყენეთ line-height განზომილების მითითების გარეშე.
 
 
+## ფონტის შემოკლებული თვისებები
+### დავალება 3.14
+
+შეამოკლეთ კოდი Font-ის შემოკლებული თვისებების გამოყენებით:
+p {
+	font-family: "Arial";
+	font-size: 20px;
+	line-height: 30px;
+}
+
+### დავალება 3.15
+
+შეამოკლეთ კოდი Font-ის შემოკლებული თვისებების გამოყენებით:
+h1 {
+	width: 300px;
+	font-family: Georgia;
+	color: blue;
+	font-size: 55px;
+	font-weight: normal;
+}
 
 
+### დავალება 3.16
 
-
-
-
-
-
+შეამოკლეთ კოდი Font-ის შემოკლებული თვისებების გამოყენებით:
+p {
+	font-family: Courier New;
+	font-size: 25px;
+	font-weight: bold;
+	text-indent: 30px;
+	font-style: italic;
+	line-height: 20px;
+}
 
 
 
