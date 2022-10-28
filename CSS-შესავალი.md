@@ -341,6 +341,8 @@ p {
 
 დაწერეთ კოდი რომლის შედეგი მოცემულია ქვემოთ:
 
+![image](https://user-images.githubusercontent.com/25004586/198630265-493c6d1a-27c9-4d14-b3ad-54bfdc8c2c26.png)
+
 
 ### დავალება 3.20
 
