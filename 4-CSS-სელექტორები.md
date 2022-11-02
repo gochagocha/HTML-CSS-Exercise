@@ -369,7 +369,7 @@ h5 {
 
 part კლასის ელემენტები გაამუქეთ, გააფერადეთ წითლად და ფონტის ზომა განუსაზღვრეთ 20px.
 
-## div - ტეგების დაჯგუფება
+## div-ის საშუალებით ტეგების გაერთიანება
 ### დავალება 4.18
 
 მოცემულია .html კოდი:
@@ -479,20 +479,55 @@ part კლასის ელემენტები გაამუქეთ,
     
 ```
 პირველი და მეოთხე div-ის შემცველობა მწვანედ გააფერადეთ, მეორე და მესამე div-ი, კი  წითლად.  ამისათვის პირველ და მეოთხე  div-ს გაუწერეთ ერთი და იგივე კლასი, ხოლო მეორე და მესამე div-ს სხვა კლასი.
-	    	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+
+
+## კლასების დაჯგუფება
+### დავალება 4.20
+
+მოცემულია .css კოდი:
+
+```css
+.one {
+	font-family: "Courier New";
+	font-style: bold;
+	font-size: 30px;
+	color: red;
+}
+.two {
+	font-family: "Courier New";
+	font-style: bold;
+	font-size: 50px;
+	color: green;
+}
+```
+გაამარტივეთ კოდი სელექტორების დაჯგუფების გამოყენებით
+
+### დავალება 4.21
+
+მოცემულია .css კოდი:
+
+```css
+.one {
+	font-family: "Courier New";
+	font-style: bold;
+	font-size: 50px;
+	color: green;
+}
+.two {
+	font-family: "times new roman";
+	font-size: 50px;
+	color: green;
+}
+.three {
+	font-family: "Courier New";
+	font-style: bold;
+	font-size: 50px;
+	color: red;
+}
+```
+გაამარტივეთ კოდი სელექტორების დაჯგუფების გამოყენებით
+
+
+
+
+
